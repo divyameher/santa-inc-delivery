@@ -7,4 +7,8 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'santa-inc-delivery';
+  isSideNavExpanded = true;
+  openSideNav() {
+
+  }
 }

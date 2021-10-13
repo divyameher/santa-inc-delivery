@@ -1,0 +1,37 @@
+[
+  {
+    "firstName": "Monica",
+    "lastName": "Geller",
+    "address": "Manhattan",
+    "wishes": "Mittens",
+    "isGoodBehavior": true
+  },
+  {
+    "firstName": "Chandler",
+    "lastName": "Bing",
+    "address": "Manhattan",
+    "wishes": "Books",
+    "isGoodBehavior": false
+  },
+  {
+    "firstName": "Joey",
+    "lastName": "Tribbiani",
+    "address": "Manhattan",
+    "wishes": "Pizza",
+    "isGoodBehavior": true
+  },
+  {
+    "firstName": "Rachel",
+    "lastName": "Green",
+    "address": "Chicago",
+    "wishes": "Frock",
+    "isGoodBehavior": true
+  },
+  {
+    "firstName": "Ross",
+    "lastName": "Geller",
+    "address": "Manhattan",
+    "wishes": "Toys",
+    "isGoodBehavior": false
+  }
+]
